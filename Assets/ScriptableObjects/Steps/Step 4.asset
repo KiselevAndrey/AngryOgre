@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e55f20e1f76f21459b481635bc280b1, type: 3}
+  m_Name: Step 4
+  m_EditorClassIdentifier: 
+  quest: "\u0414\u0432\u0443\u0445\u0433\u043E\u043B\u043E\u0432\u044B\u0439 \u043E\u0433\u0440,
+    \u0442\u0435\u0440\u0440\u043E\u0440\u0438\u0437\u0438\u0440\u0443\u044E\u0449\u0438\u0439
+    \u0434\u0435\u0440\u0435\u0432\u043D\u044E \u041F\u0430\u0440\u044B\u0436. \u041Da\u0433\u0440\u0430\u0434\u0430
+    5000 \u0437\u043E\u043B\u043E\u0442\u044B\u0445."
+  leftRequest: "W - \u0412\u0441\u0451 \u0432\u0435\u0440\u043D\u043E."
+  rightRequest: "U - \u0413\u044B, \u0433\u044B! \u041D\u0435\u0443\u0436\u0435\u043B\u0438
+    \u043F\u0440\u044F\u043C\u043E \u0434\u0432\u0443\u0445\u0433\u043E\u043B\u043E\u0432\u044B\u0439?"
+  leftStep: {fileID: 11400000, guid: 8a50f8287bf2c9242aed6f1f94ef6016, type: 2}
+  rightStep: {fileID: 11400000, guid: c3dad75be9fc4c545a154ed5c387a1fc, type: 2}
+  ending: 0
+  endBool: {fileID: 0}
